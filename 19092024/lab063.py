@@ -1,0 +1,10 @@
+squares=[1,3,2,5]
+l=squares
+l2=squares.copy()
+print(squares)
+print(l)
+print(l2)
+squares[0]=100
+print(squares)
+print(l)
+print(l2)
