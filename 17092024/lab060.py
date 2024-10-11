@@ -6,6 +6,7 @@ def reverse_string(input_string):
 
 original_str="ABCD"
 rev_str=reverse_string(original_str)
+print(rev_str)
 
-output=lambda input_string:reverse_str
-print(output(reverse_str))
+# output=lambda input_string:reverse_str
+# print(output(reverse_str))
